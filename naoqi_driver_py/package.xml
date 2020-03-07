@@ -40,7 +40,6 @@
   <run_depend>geometry_msgs</run_depend>
   <run_depend>sensor_msgs</run_depend>
   <run_depend>naoqi_bridge_msgs</run_depend>
-  <run_depend>humanoid_nav_msgs</run_depend>
   <run_depend>nav_msgs</run_depend>
   <run_depend>dynamic_reconfigure</run_depend>
 </package>
